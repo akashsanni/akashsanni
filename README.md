@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashsanni
-- 👀 I’m interested in java full stack
-- 🌱 I’m currently learning DSA , java
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
