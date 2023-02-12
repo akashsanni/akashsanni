@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akashsanni
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Akash kumar
+- 👀 I’m interested in Web Development & DSA
+- 🌱 I’m currently working on javascript & data structures and algo.
 - 📫 How to reach me @akashsanni4@gmail.com
 
 <!---
